@@ -1,0 +1,81 @@
+% !TeX program = pdflatex
+\documentclass[aspectratio=169]{beamer}
+
+% ---------------------------
+% Konfiguration & eigene Kommandos
+% ---------------------------
+\input{1.0.0.0_config/config.tex}
+\input{1.0.0.0_config/footer_header.tex}
+\input{1.0.0.0_config/commands.tex}
+
+
+% ---------------------------
+% Metadaten
+% ---------------------------
+\title{Titel der Präsentation}
+\subtitle{Untertitel oder Slogan}
+\author{Vorname Nachname}
+\institute{Fachschaft Informatik}
+\date{\today}
+% ---------------------------
+
+
+
+\begin{document}
+
+% ---------------------------
+% Titelseite
+% ---------------------------
+\begin{frame}[plain]
+  \titlepage{}
+\end{frame}
+% ---------------------------
+
+
+% ---------------------------
+% Agenda
+% ---------------------------
+  \input{2.0.0.0_content/pages/00_table_of_content.tex}
+% ---------------------------
+
+\setcounter{framenumber}{0} % Erste Inhaltsfolie zeigt dann 1
+
+
+% ---------------------------
+% Beispielabschnitte
+% ---------------------------
+
+\PART{Begrüßung}
+  \input{2.0.0.0_content/pages/01_vorwort.tex}
+% ---------------------------
+
+
+% ---------------------------
+% Beispielabschnitte
+% ---------------------------
+\PART{Hauptteil}
+  \input{2.0.0.0_content/pages/04_thema1.tex}
+  \input{2.0.0.0_content/pages/05_thema2.tex}
+% ---------------------------
+
+
+% ---------------------------
+% Vollbildbild (optional)
+% ---------------------------
+% \begin{frame}[plain]
+% \IfFileExists{assets/hero.jpg}{\includegraphics[width=\paperwidth,height=0.92\paperheight,keepaspectratio]{assets/hero.jpg}}{\centering\vspace*{2cm}\fbox{Hero Bild}}
+% \end{frame}
+% ---------------------------
+
+
+
+% ---------------------------
+% Abschluss
+% ---------------------------
+\PART{Abschluss}
+  \input{2.0.0.0_content/pages/99_abschluss.tex}
+% ---------------------------
+
+
+
+\end{document}
