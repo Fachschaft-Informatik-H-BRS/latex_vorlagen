@@ -15,6 +15,8 @@ Wie man eine gute Lötstelle hinbekommt
 
 Häufige Fehler erkennen und beheben
 
+
+
 Folie 2: Ziele der Veranstaltung
 
 Du weißt, wie du sicher mit dem Lötkolben arbeitest
@@ -26,6 +28,11 @@ Du kennst typische Einsatzgebiete vom Löten in der Elektronik
 Du kannst selbst einfache Bauteile auf eine Platine löten
 
 Du erkennst typische Fehler und kannst sie vermeiden oder korrigieren
+
+Funny Witze: Lötzinn(Blödsinn) Was soll ich euch ins Gedächtnis blasen.
+
+
+
 
 Block 1: Sicherheitseinweisung
 Folie 3: Sicherheitsgrundlagen
@@ -39,6 +46,9 @@ Lötkolben immer in die Halterung legen, niemals lose auf den Tisch
 Keine herumliegenden Kabel oder Dinge, an denen man hängen bleibt
 
 Brennbare Materialien vom Arbeitsplatz fernhalten
+
+
+
 
 Folie 4: Arbeitsplatz und Umgang mit dem Lötkolben
 
@@ -54,6 +64,9 @@ Lötkolben immer so ablegen, dass die Spitze nach unten oder zur Halterung zeigt
 
 Nach dem Löten Lötkolben ausschalten und abkühlen lassen
 
+
+
+
 Folie 5: Gesundheit und Schutz
 
 Möglichst in gut belüftetem Raum löten
@@ -68,6 +81,9 @@ Beim Schneiden von Drahtenden auf fliegende Stücke achten
 
 Brille sinnvoll, vor allem bei Drahtarbeiten
 
+
+
+
 Block 2: Kurze Geschichte des Lötens
 Folie 6: Geschichte des Lötens (Teil 1)
 
@@ -79,6 +95,9 @@ Einsatz bei Glas und Buntglasfenstern
 
 Prinzip ist seit Jahrhunderten gleich: Metalle mit einem Zusatzmetall verbinden
 
+
+
+
 Folie 7: Geschichte des Lötens (Teil 2)
 
 Mit der Elektronik wurde Löten zum Standardverfahren für Verbindungen
@@ -88,6 +107,9 @@ Entwicklung von Lötzinn für niedrige Temperaturen in Schaltungen
 Vom Handlöten zur industriellen Fertigung: Wellenlöten, Reflow
 
 Heute: Kombination aus Maschinenfertigung und Handlöten für Prototypen und Reparaturen
+
+
+
 
 Block 3: Wozu ist Löten gut und welche Arten gibt es
 Folie 8: Was ist Löten
@@ -100,6 +122,9 @@ Ergebnis: elektrische Verbindung und mechanischer Halt
 
 Wichtig in der Elektronik, aber auch in Sanitär, Metallbau und Schmuck
 
+
+
+
 Folie 9: Wofür braucht man Löten in der Elektronik
 
 Aufbau von Schaltungen auf Platinen
@@ -111,6 +136,9 @@ Prototypenbau in Projekten und Laboren
 Modding und Anpassung von Geräten
 
 Maker Projekte wie LED Streifen, Sensoren, Mikrocontroller
+
+
+
 
 Folie 10: Arten des Lötens (Überblick)
 
@@ -134,6 +162,9 @@ Hinweis für die Veranstaltung:
 
 Heute üben wir Weichlöten mit Lötkolben an einfachen Elektronikprojekten
 
+
+
+
 Block 4: Werkzeuge und Material
 Folie 11: Werkzeug und Material
 
@@ -153,6 +184,9 @@ Pinzette oder dritter Arm zum Halten von Bauteilen
 
 Feuchter Schwamm oder Messingwolle zum Reinigen der Spitze
 
+
+
+
 Block 5: Techniken und Methoden
 Folie 12: Wie sieht eine gute Lötstelle aus
 
@@ -165,6 +199,9 @@ Bauteilbeinchen gut umschlossen, aber nicht komplett vergraben
 Keine Lötbrücke zu benachbarten Pads oder Leitungen
 
 Mechanisch fest, Bauteil wackelt nicht, wenn man leicht dagegen tippt
+
+
+
 
 Folie 13: Schritt für Schritt Löten an einer Platine
 
@@ -182,6 +219,8 @@ Schritt 6: Lötstelle visuell prüfen
 
 Schritt 7: Überstehende Beinchen mit Seitenschneider kürzen
 
+
+
 Folie 14: Praktische Tipps für gutes Löten
 
 Lötspitze sauber halten, regelmäßig kurz reinigen
@@ -195,6 +234,8 @@ Lieber etwas üben, bevor du an deinem eigentlichen Projekt lötest
 Bauteile fixieren, damit sie sich beim Löten nicht bewegen
 
 Wenn etwas nicht gut aussieht, lieber einmal neu machen
+
+
 
 Block 6: Häufige Fehler und wie man sie löst
 Folie 15: Häufige Fehlerbilder
@@ -221,6 +262,9 @@ Zu lange Hitze
 
 Bauteil oder Pad verfärbt, Bauteil eventuell beschädigt
 
+
+
+
 Folie 16: Fehler beheben
 
 Kalte Lötstelle
@@ -242,6 +286,9 @@ Lötzinn wieder verflüssigen, Bauteil ausrichten, abkühlen lassen
 Im Zweifel
 
 Lötzinn komplett entfernen und Lötstelle neu aufbauen
+
+
+
 
 Block 7: Abschluss und Übergang zur Praxis
 Folie 17: Was wir jetzt praktisch machen
