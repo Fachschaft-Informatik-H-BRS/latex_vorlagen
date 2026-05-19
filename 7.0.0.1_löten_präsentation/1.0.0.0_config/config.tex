@@ -12,6 +12,32 @@
   \usepackage[default,regular,lf]{FiraSans}
   \renewcommand{\familydefault}{\sfdefault}
 
+  %%%%%% Code Listings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  % \usepackage{verbatim}
+  % \usepackage{verbatimbox}
+  % \usepackage[T1]{fontenc}
+  % \usepackage[utf8]{inputenc}
+  % \usepackage{lmodern}
+  \usepackage{listings}
+  \usepackage{xcolor}
+
+  \lstdefinestyle{cstyle}{
+    language=C,
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    columns=fullflexible,
+    keepspaces=true,
+    showstringspaces=false,
+    literate=
+      {ä}{{\"a}}1
+      {ö}{{\"o}}1
+      {ü}{{\"u}}1
+      {Ä}{{\"A}}1
+      {Ö}{{\"O}}1
+      {Ü}{{\"U}}1
+      {ß}{{\ss}}1
+  }
+
   % Grafik & Tools, die beamer-sicher sind
   \usepackage{graphicx}
   \usepackage{tikz}
@@ -161,6 +187,8 @@
   \usepackage{multicol}
   %\usepackage{tocbasic}
 
+
+
   %%%%%% Sonstiges %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \usepackage{qrcode}
   \usepackage[]{graphicx}
@@ -176,6 +204,7 @@
   \usepackage{microtype}
   \usepackage{lipsum}
   \usepackage{pdfpages}
+
 
   \usepackage{ragged2e}
   \AtBeginDocument{\RaggedRight}
